@@ -1,4 +1,4 @@
-Contributors: Uladzislau Kaparykha, Amanda Hahn, Nicholas Waller<br>
+Contributors: Nicholas Waller, Uladzislau Kaparykha, Amanda Hahn<br>
 Hackathon Team Name: N.U.M
 
 General Purpose:
